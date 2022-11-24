@@ -23,7 +23,6 @@ public class StopWatch {
 		return elapsed;
 	}
 	
-	@SuppressWarnings({ "resource", "unused" })
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		StopWatch sw = new StopWatch();
